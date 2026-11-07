@@ -1,6 +1,6 @@
 # W65C816 Studio + ROM-Resident BASIC
 
-ALL TYPING MUSE BE WITH CAPS ON FOR BASIC TO FUNCTION.
+ALL TYPING MUST BE WITH CAPS ON FOR BASIC TO FUNCTION.
 
 **Complete hardware, wiring, Windows IDE, BASIC ROM, and Tera Term guide**  
 **Target:** Western Design Center W65C816SXB with W65C816EDU expansion board  
